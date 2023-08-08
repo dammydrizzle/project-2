@@ -41,5 +41,9 @@ button{
     width: 100%;
     font-size: 18px;
     text-transform: uppercase;
+    transition: background-color .2s ease ;
     
+}
+button:hover{
+    background-color: #45a049;
 }
